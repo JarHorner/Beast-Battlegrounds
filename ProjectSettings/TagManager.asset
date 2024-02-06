@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Board
+    uniqueID: 2503258319
+    locked: 0
+  - name: BoardPosition
+    uniqueID: 3817156113
+    locked: 0
+  - name: BoardCard
+    uniqueID: 2598570055
+    locked: 0
+  - name: PlayerCard
+    uniqueID: 3157581769
+    locked: 0
+  - name: PlayerInspectedCard
+    uniqueID: 2124412261
+    locked: 0
